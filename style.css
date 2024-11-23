@@ -39,6 +39,7 @@
     margin-left: 24px;
     margin-right: 24px;
     margin-bottom: 16px;
+    width: 332px;
 }
 @media (max-width: 767px) {
     .container .card img.illustration-article {
