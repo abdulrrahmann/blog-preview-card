@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Preview Card Solution](https://abdulrrahmann.github.io/blog-preview-card/)
+- Solution URL: [Preview Card Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-AJI3bJkpvR)
 - Live Site URL: [Live Site](https://abdulrrahmann.github.io/blog-preview-card/)
 
 ## My process
