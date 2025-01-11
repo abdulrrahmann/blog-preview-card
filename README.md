@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://abdulrrahmann.github.io/blog-preview-card/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Preview Card Solution](https://abdulrrahmann.github.io/blog-preview-card/)
+- Live Site URL: [Live Site](https://abdulrrahmann.github.io/blog-preview-card/)
 
 ## My process
 
